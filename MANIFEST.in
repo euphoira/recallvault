@@ -1,0 +1,4 @@
+include LICENSE README.md SECURITY.md CONTRIBUTING.md .env.example
+recursive-include docs *.md *.png *.jpg
+recursive-include tests *.py
+recursive-include src/recallvault/web *
